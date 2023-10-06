@@ -77,12 +77,11 @@
 
 #### Extra info on the Apex chart | Sales data | Past orders 
 <div style="display: flex;">
-  <img width="750" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/3e3b9b72-431c-41e3-a0f9-4d7610554fbe">
+  <img width="750" alt="Screenshot 1" src="https://github.com/TomasSirotek/frontend/assets/72190589/fdbd7bc7-6ee8-4813-9b20-3e939445875c">
  
 </div>
 
 ## Deployment 
-------
 
 You can go and run the app locally or visit the demo version of the app which is deployed on Azure and Vercel.
 Frontend was deployed to Vercel in two stages (preview and production) where preview was on development branch and production on master branch.
@@ -104,7 +103,6 @@ Fully deployed via Git Actions to Azure Web App
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-------
 
 <div>
   <img width="700" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/459c7d25-6b7e-446c-8662-d8156d5874d1">
@@ -121,6 +119,7 @@ You, as the CTO, must decide what properties boxes have in the IT system. (In ot
 ------
 
 #### Front end
+* [Angular-Tailwing Started Kit](https://github.com/luciano-work/angular-tailwind)
 * [Angular](https://angular.io)
 * [Tailwind](https://tailwindcss.com)
 * [Typescript](https://www.typescriptlang.org)
@@ -139,6 +138,18 @@ You, as the CTO, must decide what properties boxes have in the IT system. (In ot
 
 #### Database 
 * [ElephantSQL](https://www.elephantsql.com)
+
+
+#### Angular Started Kit
+To speed up the development workflow and avoid all the boilerplate code I used the Angular-Tailwind Started Kit and basically adjusted how I wanted and build my features on top of it.
+
+Thanks to the author of the starter kit for the great work and time saved.
+
+https://github.com/luciano-work/angular-tailwind
+
+Author 
+
+https://github.com/luciano-work
 
 ### Repos
 ------
