@@ -51,33 +51,33 @@
 
 #### Light mode dark mode
 <div style="display: flex;">
-  <img width="500" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/ae431fac-6cf7-4470-83fd-91f81136089d">
-  <img width="500" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/1c2bf0ee-5505-434e-9a93-ad0d6080143f">
+  <img width="750" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/ae431fac-6cf7-4470-83fd-91f81136089d">
+  <img width="750" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/1c2bf0ee-5505-434e-9a93-ad0d6080143f">
 </div>
 
 ### Box Management page
 
 #### Box data table | Search | Sort | Pagination
 <div style="display: flex;">
-  <img width="500" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/8203a8da-bd54-4c1b-b36d-a1b860694edf">
-  <img width="500" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/1a2f60f6-71fb-4bfa-8989-d02a09d1ca5c">
+  <img width="750" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/8203a8da-bd54-4c1b-b36d-a1b860694edf">
+  <img width="750" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/1a2f60f6-71fb-4bfa-8989-d02a09d1ca5c">
 </div>
 
 #### Create box modal | Validation | Error handling
 <div style="display: flex;">
-  <img width="500" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/69ecb624-fe36-46de-b3f7-fab966552f7a">
-  <img width="500" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/cbfe6b6b-363d-4433-91c1-01435c112a35">
+  <img width="750" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/69ecb624-fe36-46de-b3f7-fab966552f7a">
+  <img width="750" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/cbfe6b6b-363d-4433-91c1-01435c112a35">
 </div>
 
 #### Box page (ID) | Delete box | Update box | Validation | Error handling | Expandable Navbar
 <div style="display: flex;">
-  <img width="500" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/3e3b9b72-431c-41e3-a0f9-4d7610554fbe">
-  <img width="500" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/1eb292b0-1bf1-4b6c-8941-54bf610ff458">
+  <img width="750" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/3e3b9b72-431c-41e3-a0f9-4d7610554fbe">
+  <img width="750" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/1eb292b0-1bf1-4b6c-8941-54bf610ff458">
 </div>
 
 #### Extra info on the Apex chart | Sales data | Past orders 
 <div style="display: flex;">
-  <img width="500" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/3e3b9b72-431c-41e3-a0f9-4d7610554fbe">
+  <img width="750" alt="Screenshot 1" src="https://github.com/TomasSirotek/box-factory-project/assets/72190589/3e3b9b72-431c-41e3-a0f9-4d7610554fbe">
  
 </div>
 
